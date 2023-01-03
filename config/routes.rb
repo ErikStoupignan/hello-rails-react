@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   end
 
   root 'root#index'
+  get 'api/index'
+  get 'root/index'
 end
