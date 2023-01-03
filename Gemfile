@@ -6,6 +6,9 @@ ruby '3.1.3'
 # Gem to use postgres data base
 gem 'pg'
 
+# This gem leave make connect with others servers
+gem 'rack-cors'
+
 # Gem to allow use a file to protect my user name and password
 gem 'figaro'
 
