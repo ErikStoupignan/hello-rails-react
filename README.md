@@ -131,7 +131,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/ErikStoupignan/setup-ror-project.git
+  git clone https://github.com/ErikStoupignan/hello-rails-react.git
   cd setup-ror-project
 ```
 
