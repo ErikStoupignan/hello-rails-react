@@ -6,7 +6,7 @@ module.exports = {
   devtool: "source-map",
   entry: {
     application: "./app/javascript/application.js"
-  },
+  }, 
   module: {
     rules: [
       {
