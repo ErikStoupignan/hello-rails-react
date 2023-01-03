@@ -150,7 +150,7 @@ To run the project, execute the following command:
 
 
 ```sh
-  rails server
+  ./bin/dev
 ```
 
 <!-- ### Run tests
